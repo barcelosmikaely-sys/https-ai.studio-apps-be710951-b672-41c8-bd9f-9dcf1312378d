@@ -1,0 +1,8 @@
+{
+  "name": "Aura Estética",
+  "description": "Sistema interno de gestão clínica estética com prontuário eletrônico, agenda, controle de estoque, comissões e CRM.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
